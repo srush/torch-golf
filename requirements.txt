@@ -1,0 +1,7 @@
+matplotlib
+torch==1.10
+streambook
+seaborn
+jupyter
+networkx
+celluloid
